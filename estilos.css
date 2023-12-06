@@ -1,0 +1,42 @@
+.img1{
+width:200px;
+height:200px;
+}
+
+.img2{
+width:100px;
+height:100px;
+
+}
+a:link {
+  color: red;
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+
+a:active {
+  color: blue;
+}
+body{
+	background-image: url("fondo3.webp");
+
+}
+
+table{
+	text-align:center;
+	background-color:#f7c2b8;
+	opacity:0.95;
+	width:70% ;
+
+
+
+}
